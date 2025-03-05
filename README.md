@@ -1,10 +1,10 @@
-🛠️ Script Repository
+🛠️ **Script Repository**
 
 Welcome to this repository containing various scripts. Here, you'll find useful tools to automate tasks across different platforms and environments.
 
-📂 Categories and Scripts
+📂 **Categories and Scripts**
 
-🏢 Domain Administration (ADMINISTRATION_DOMAIN)
+🏢 **Domain Administration (ADMINISTRATION_DOMAIN)**
 
     📌 Create a domain
     
@@ -16,7 +16,7 @@ Welcome to this repository containing various scripts. Here, you'll find useful 
     
     📌 List user group memberships
 
-🐧 AlmaLinux 9 (ALMALINUX_9)
+🐧 **AlmaLinux 9 (ALMALINUX_9)**
 
     🛠️ Install Docker
     
@@ -26,19 +26,19 @@ Welcome to this repository containing various scripts. Here, you'll find useful 
 
     🎨 Customize user prompt colors
 
-🐧 Debian 12 (DEBIAN_12)
+🐧 **Debian 12 (DEBIAN_12)**
 
     🛠️ Install Docker
 
     🔒 Generate a self-signed certificate
 
-⚡ Hyper-V (HYPERV)
+⚡ **Hyper-V (HYPERV)**
 
     📜 List virtual machines
     
     🔄 Rename a virtual network interface
 
-🔑 Script Signing (SCRIPT_SIGNING)
+🔑 **Script Signing (SCRIPT_SIGNING)**
 
     🔏 Generate a signing certificate
     
