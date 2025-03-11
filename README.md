@@ -8,7 +8,7 @@ Welcome to this repository containing various scripts. Here, you'll find useful 
 
     📌 Create a domain
     
-    📌 Export Active Directory users to CSV (supports accents)
+    📌 Export Active Directory users to CSV (support accents)
     
     📌 Retrieve ACLs (files and directories)
     
