@@ -2,7 +2,7 @@
 
 ## Auteur : Khalil
 ## Date : 25/02/25
-## Version : rev 1
+## Version : rev 1.0
 
 ## Objectif :
 # Ce script modifie le prompt pour l'utilisateur courant et root,
@@ -13,9 +13,6 @@ GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
 RED='\033[0;31m'
 NC='\033[0m' # No Color
-
-# Journalisation
-exec > >(tee -a modify_prompt.log) 2>&1
 
 # Fonction pour afficher un message de succès
 success() {
