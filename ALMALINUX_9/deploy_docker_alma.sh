@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 ## Auteur : Khalil
-## Date : 24/07/24
+## Date : 11/03/2025
 ## Version : rev 2.0
 
 ## Objectif :
@@ -12,9 +12,6 @@ GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
 RED='\033[0;31m'
 NC='\033[0m' # No Color
-
-# Journalisation
-exec > >(tee -a deploy_docker.log) 2>&1
 
 # Fonction pour afficher un message de succès
 success() {
